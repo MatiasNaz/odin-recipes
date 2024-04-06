@@ -1,3 +1,10 @@
+.home-page-link h1 {
+  text-align: left;
+  font-size: 100px;
+  color: #c6dcba;
+}
+
+
 .page {
   background-color: #e3e1d9;
 }
