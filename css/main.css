@@ -1,9 +1,10 @@
-.home-page-link h1 {
+.home-page-link {
   text-align: left;
-  font-size: 100px;
+  text-shadow: 2px 2px black;
+  font-size: 40px;
   color: #c6dcba;
+  
 }
-
 
 .page {
   background-color: #e3e1d9;
@@ -41,4 +42,21 @@ a:hover {
   background-color: #f1efe9;
   text-shadow: 0.5px 0.5px black;
   font-size: 30px;
+}
+
+.food-description {
+  display: block;
+  text-align: center;
+  height: 30px;
+  width: 50%;
+  margin: 50px 400px 50px;
+
+}
+
+
+
+.loaded-fries-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
